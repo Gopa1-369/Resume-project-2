@@ -2,7 +2,9 @@
 
 ShareMePics is a photo-sharing web application that allows users to upload images, categorize them, and manage their photos efficiently. With Google login integration, users can easily sign in and start sharing their favorite images.
 
+## Live Project
 
+[Explore ShareMePics](https://sharemepicss.netlify.app)
 
 ## Screenshots
 
@@ -70,7 +72,7 @@ To get a copy of the project up and running on your local machine, follow these 
  5. **Start the frontend**:
     ```bash
        cd shareme_frontend
-       npm start
+       npm run dev
 
  6. **Start the backend (if applicable)**:
      ```bash
