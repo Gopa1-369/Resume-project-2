@@ -51,7 +51,7 @@ To get a copy of the project up and running on your local machine, follow these 
    git clone https://github.com/Gopa1-369/ShareMePics.git
 
 
-2. **Clone the repository**:
+2. **Navigate to the Project Folder**:
 
     ```bash
     cd ShareMePics
